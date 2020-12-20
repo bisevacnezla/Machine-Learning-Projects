@@ -25,11 +25,7 @@ Based on the results that was given by the *accuracy_score(X, y)* method, here a
 
 ## Regression
 
-Regression Model  | PROS                              | CONS
------------------ | --------------------------------- | --------------
-Linear Regression | Works on any size of the dataset, | The Linear Regression
-                  | gives information about relevance | Assumptions
-                  | of features                       |
-Polynomial        | Works on any size of the dataset, |Need to choose the right
-Regression        | works very well on non-linear     |polynomial degree for a 
-                  | problems.                         |good bias/variance tradeoff.
+Regression Model          | PROS                                                                            | CONS
+------------------------- | ------------------------------------------------------------------------------- | --------------
+Linear Regression         | Works on any size of the dataset, gives information about relevance of features | The Linear Regression Assumptions
+Polynomial Regression     | Works on any size of the dataset, works very well on non-linear problems.       |Need to choose the right polynomial degree for a good bias/variance tradeoff        
