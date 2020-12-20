@@ -25,8 +25,6 @@ Based on the results that was given by the *accuracy_score(X, y)* method, here a
 
 ## Regression
 
-https://cdn-images-1.medium.com/max/640/1*eeIvlwkMNG1wSmj3FR6M2g.gif
-
 Regression Model          | PROS                                                                            | CONS
 ------------------------- | ------------------------------------------------------------------------------- | --------------
 Linear Regression         | Works on any size of the dataset, gives information about relevance of features | The Linear Regression Assumptions
