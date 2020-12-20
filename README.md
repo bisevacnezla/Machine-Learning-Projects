@@ -1,2 +1,4 @@
 # Machine-Learning-Projects
-nezla bisevac
+Beginner-level machine Learning projects in Phyton
+## Table of Contents
+* [General Info] (#general-info)
