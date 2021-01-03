@@ -21,7 +21,8 @@ Machine Learning approaches:
 
 Algrithms that are used here are based on the approach mentioned above. Different groups have different datasets, but algorithms that belong to the same group use the same dataset (f.e. regression and classification don't have the same dataset, but simple linear regression and polynomial regression have). 
 In that way, it's easier to understand which algorithm does the best prediction for our dataset.
-Based on the results that was given by the *accuracy_score(X, y)* method, here are some conclusions for both Regression and Classification:
+
+Based on the results that was given by the *accuracy_score(X, y)* method, here are some of the conclusions for both Regression and Classification:
 
 ## Regression
 
